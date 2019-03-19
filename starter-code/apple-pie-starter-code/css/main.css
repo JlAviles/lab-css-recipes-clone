@@ -1,0 +1,9 @@
+* {
+    padding: 30%;
+}
+
+#header {
+    color: white;
+    height: 40%;
+    background-image: url(images/apple-pie.jpg);
+}
